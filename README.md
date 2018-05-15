@@ -10,4 +10,6 @@ JQUERY
 Select ID: # VD:  $('#txt1')
 Select Name: $('div')
 Select Class: . VD: $('.col-md-5')
+=> Có thể dùng kèm: first, last, even, odd để lấy: VD: $('.col-md-5:first')
+
 
