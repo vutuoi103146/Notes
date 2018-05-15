@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=G2qGZzw4D88&list=PLNRc263j7V3uUviCSOamkXQ77mfXyC
 
 ng serve --open --port 4216
 
-Insert Row Spire: worksheet.InsertRow(3, 100, InsertOptionsType.FormatAsBefore);
+Insert Row Spire: worksheet.InsertRow(3, 100, InsertOptionsType.FormatAsAfter);
