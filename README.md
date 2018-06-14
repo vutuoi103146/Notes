@@ -13,4 +13,6 @@ Select Class: . VD: $('.col-md-5')
 => Có thể dùng kèm: first, last, even, odd để lấy: VD: $('.col-md-5:first')
 select autibutes [], VD: $('[title]'),$('span[title]')
 
+router.url: Lấy tên Router hiện tại: /login
+window.location.origin: Lấy đường dẫn cơ sở: http://localhost:4200
 
