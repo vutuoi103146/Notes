@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=G2qGZzw4D88&list=PLNRc263j7V3uUviCSOamkXQ77mfXyC
 ng serve --open --port 4216
 
 Insert Row Spire: worksheet.InsertRow(3, 100, InsertOptionsType.FormatAsAfter);
+
 Dev Express: 
 Range HeaderRange=sheet["A1:U11"];
 sheet.Range["A13:U24"].CopyFrom(HeaderRange);
