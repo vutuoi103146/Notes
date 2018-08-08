@@ -22,3 +22,6 @@ select autibutes [], VD: $('[title]'),$('span[title]')
 router.url: Lấy tên Router hiện tại: /login
 window.location.origin: Lấy đường dẫn cơ sở: http://localhost:4200
 
+Link Photoshop CS6: https://drive.google.com/file/d/1LPxO5WNOVYt1bjpHF98vRtt5tTDdifUt/view
+
+
