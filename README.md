@@ -5,6 +5,9 @@ ng serve --open --port 4216
 
 Insert Row Spire: worksheet.InsertRow(3, 100, InsertOptionsType.FormatAsAfter);
 
+Password outlook: anhvu@123
+
+
 Dev Express:
 
 Range HeaderRange=sheet["A1:U11"];
