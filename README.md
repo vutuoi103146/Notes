@@ -27,4 +27,7 @@ window.location.origin: Lấy đường dẫn cơ sở: http://localhost:4200
 
 Link Photoshop CS6: https://drive.google.com/file/d/1LPxO5WNOVYt1bjpHF98vRtt5tTDdifUt/view
 
+Zaltv code :3169676470
+18+ 7673289141
+
 
